@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "The Boy Scouts of America files for bankruptcy amidst sexual harassment allegations - ABC News",
+      "description": "The organization plans to create a victims compensation fund for payouts that could reach more than $1 billion.",
+      "url": "https://www.youtube.com/watch?v=JSrXIZfHxEI",
+      "urlToImage": "https://i.ytimg.com/vi/JSrXIZfHxEI/maxresdefault.jpg",
+      "publishedAt": "2020-02-19T02:12:52Z",
+      "content": "The organization plans to create a victims compensation fund for payouts that could reach more than $1 billion."
+    }
+  ]
+}
